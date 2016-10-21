@@ -1,14 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿// ------------------------------------------------------------ //
+// <copyright file="Program.cs" company="Nova ex Machina">      //
+//     Copyright (c) Sprocket Enterprises. All rights reserved. //
+// </copyright>                                                 //
+// ------------------------------------------------------------ //
 namespace Testing
 {
-  class Program
+  using System;
+
+  /// <summary>
+  /// Program starting point.
+  /// </summary>
+  public class Program
   {
-    static void Main(string[] args)
+    /// <summary>
+    /// Program starting method.
+    /// </summary>
+    /// <param name="args">List of arguments from outside of the solution.</param>
+    public static void Main(string[] args)
     {
     }
   }

@@ -1,4 +1,9 @@
-﻿using System.Reflection;
+﻿// ------------------------------------------------------------ //
+// <copyright file="AssemblyInfo.cs" company="Nova ex Machina">      //
+//     Copyright (c) Sprocket Enterprises. All rights reserved. //
+// </copyright>                                                 //
+// ------------------------------------------------------------ //
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
